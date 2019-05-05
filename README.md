@@ -15,9 +15,9 @@ I focus on Ethereum and Loom Network as the DApps.
 OpenZeppelin is the smart contract library based ERC.  
 ERC is the standard specification to develop a smart contract.  
 ERC20 and ERC721 are famous.  
-[OpenZeppelin : Official](https://github.com/OpenZeppelin/openzeppelin-solidity)  
-[ERC20 : Ethereum wiki](https://theethereum.wiki/w/index.php/ERC20_Token_Standard)  
-[ERC721 : Medium](https://medium.com/crypto-currently/the-anatomy-of-erc721-e9db77abfc24)  
+- [OpenZeppelin : Official](https://github.com/OpenZeppelin/openzeppelin-solidity)  
+- [ERC20 : Ethereum wiki](https://theethereum.wiki/w/index.php/ERC20_Token_Standard)  
+- [ERC721 : Medium](https://medium.com/crypto-currently/the-anatomy-of-erc721-e9db77abfc24)  
 
 ### Constitution
 [setup0000_all](https://github.com/zombietimes/setup0000_all) is the instruction script file to run the other script files.  
@@ -52,7 +52,7 @@ git clone https://github.com/zombietimes/setup0060_openZeppelin.git
 cd setup0060_openZeppelin
 sh ./ubuntuCmd_setupOpenZeppelin.sh
 ```
-![setup0060_openZeppelin_0000.png]()  
+![setup0060_openZeppelin_0000](https://user-images.githubusercontent.com/50263232/57186293-99656200-6f17-11e9-9394-8d19fb1e958b.png)  
 
 ## Requirement
 I confirmed that it works on Ubuntu Desktop 18.04 in VirtualBox.  
@@ -61,25 +61,25 @@ It works on the environment below.
 - Google Chrome.
 - [setup0050_truffle](https://github.com/zombietimes/setup0050_truffle)
 
-## Relative links
+## Relative link
 ### Overview
-[Ethereum : Official](https://www.ethereum.org/)  
-[Ethereum : Wikipedia](https://en.wikipedia.org/wiki/Ethereum)  
-[Loom Network : Official](https://loomx.io/)  
-[Loom Network : Binance wiki](https://info.binance.com/en/currencies/loom-network)  
+- [Ethereum : Official](https://www.ethereum.org/)
+- [Ethereum : Wikipedia](https://en.wikipedia.org/wiki/Ethereum)
+- [Loom Network : Official](https://loomx.io/)
+- [Loom Network : Binance wiki](https://info.binance.com/en/currencies/loom-network)
 
 ### Development
-[Online editor : EthFiddle](https://ethfiddle.com/)  
-[Online editor : Remix](https://remix.ethereum.org/)  
+- [Online editor : EthFiddle](https://ethfiddle.com/)
+- [Online editor : Remix](https://remix.ethereum.org/)
 
 ### Learning
-[Online learning : CryptoZombies](https://cryptozombies.io/)  
-[Grammar : Solidity](https://solidity.readthedocs.io/)  
-[Grammar : Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)  
+- [Online learning : CryptoZombies](https://cryptozombies.io/)
+- [Grammar : Solidity](https://solidity.readthedocs.io/)
+- [Grammar : Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
 
 ### DApps
-[DApps : CryptoKitties](https://www.cryptokitties.co/)  
-[DApps : Zombie Battle ground](https://loom.games/en/)  
+- [DApps : CryptoKitties](https://www.cryptokitties.co/)
+- [DApps : Zombie Battle ground](https://loom.games/en/)
 
 ## Messages
 Do you believe that the decentralized world is coming?  
@@ -88,7 +88,4 @@ Why?
 
 ## License
 BSD 3-Clause, see `LICENSE` file for details.  
-
----
-Produced by Zombie Times  
 
